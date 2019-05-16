@@ -1,5 +1,10 @@
-# Object file
-*.o
+# Created by https://www.gitignore.io/api/joe
+# Edit at https://www.gitignore.io/?templates=joe
 
-# Ada Library Information
-*.ali
+### Joe ###
+# File backups
+*~
+# Gets created when joe crashes
+DEADJOE
+
+# End of https://www.gitignore.io/api/joe
